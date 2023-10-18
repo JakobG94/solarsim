@@ -1,4 +1,0 @@
-Hello World!
-Changes_1.0 
-Changes_2.0 on Repository
-Changes_3.0 on local
